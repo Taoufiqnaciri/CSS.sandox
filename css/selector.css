@@ -1,0 +1,22 @@
+.T1 {
+  color: blue;
+}
+.T2 {
+  color: green;
+}
+
+#main-header {
+  color: blueviolet;
+  background-color: #f4f4f4;
+}
+
+/* Multiple selectors */
+#main-header,
+#second-header {
+  border: 1px solid #cccccc;
+}
+
+/* Nested selector */
+#main-header p {
+  font-size: 20px;
+}
