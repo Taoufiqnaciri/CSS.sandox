@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  padding: 20px;
+}
+
+.box {
+  width: 33%;
+  display: inline-block;
+  background: #f4f4f4;
+  margin-bottom: 20px;
+  padding: 20px;
+}
